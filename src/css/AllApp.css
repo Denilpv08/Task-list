@@ -1,0 +1,36 @@
+.allContainer{
+    width: 500px;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.allCreateForm{
+    display: flex;
+    gap: 5px;
+}
+
+.allInput{
+    flex-grow: 1;
+    width: 100%;
+    padding: 10px;
+    border-radius: 3px;
+    border: solid 1px #999;
+}
+
+.buttonCreate{
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(26, 76, 169);
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.allContainers{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 10px;
+}
+

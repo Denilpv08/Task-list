@@ -1,0 +1,33 @@
+.all{
+    padding: 10px;
+    background-color: #fff;
+}
+
+.allTitle{
+    flex: 1;
+    font-size: 20px;
+}
+
+.allUpdateForm, .allInfo{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.button{
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(72, 122, 221);
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.buttonDelete{
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(169, 26, 26);
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+}
